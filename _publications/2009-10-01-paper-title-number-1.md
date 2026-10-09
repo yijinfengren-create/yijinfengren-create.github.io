@@ -2,7 +2,7 @@
 
 title: "一票难求为何体验难留？——Z世代线下演唱会消费痛点解构及体验升级策略研究"
 collection: publications
-category: manuscripts
+category: competition
 permalink: /publication/2025-concert-consumption
 excerpt: '围绕Z世代线下演唱会消费体验与痛点开展调查研究，探讨消费体验的影响因素与体验升级策略。'
 date: 2026-07-01
