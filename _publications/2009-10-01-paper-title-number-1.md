@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "一票难求为何体验难留？——Z世代线下演唱会消费痛点解构及体验升级策略研究"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+permalink: /publication/2025-concert-consumption
+excerpt: '围绕Z世代线下演唱会消费体验与痛点开展调查研究，探讨消费体验的影响因素与体验升级策略。'
+date: 2026-07-01
+venue: '第十六届全国大学生市场调查与分析大赛；中国商业统计学会2025年度论文征集'
+paperurl: 'https://yijinfengren-create.github.io/files/zhengdabei_2025_concert_ticketing_market.pdf'
+citation: '《一票难求为何体验难留？——Z世代线下演唱会消费痛点解构及体验升级策略研究》. 正大杯第十六届全国大学生市场调查与分析大赛福建省一等奖；中国商业统计学会2025年度论文征集三等奖（第一作者）。'
+------------------------------------------------------------------------------------------------------------
+本研究聚焦Z世代线下演唱会消费体验，围绕观演过程中的消费痛点开展调查与分析，并探索提升线下观演体验的策略。
+**成果与获奖：**
+* 正大杯第十六届全国大学生市场调查与分析大赛福建省一等奖
+* 中国商业统计学会2026年度论文征集三等奖
