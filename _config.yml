@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Wu Yifan | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Wu Yifan"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Wu Yifan"
   pronouns         : "she/her"  
-  bio              : "Undergraduate in Economic Statistics, Fuzhou University. Research interests: Computational Economics, Operations Research, AI in Finance."
+  bio              : "Undergraduate in Economic Statistics, Fuzhou University."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Fuzhou University"
   uri              : # URL
   email            : "032402108@fzu.edu.cn" 
 
