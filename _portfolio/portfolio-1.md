@@ -1,7 +1,7 @@
 ---
 title: "基于红外干涉法的外延层厚度测算模型"
 excerpt: "关键词：菲涅尔公式反演算法，非线性加权最小二乘法，柯西色散模型，双光束
-干涉厚度模型，多光束干涉厚度模型<br/><img src='/images/500x300.png'>"
+干涉厚度模型，多光束干涉厚度模型<br/><img src='/images/2025国赛.png'>"
 collection: portfolio
 ---
 
