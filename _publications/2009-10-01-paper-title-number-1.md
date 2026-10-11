@@ -8,7 +8,7 @@ date: 2026-07-01
 venue: '中国商业统计学会'
 slidesurl: 'https://yijinfengren-create.github.io/files/zhengda_cup_2025_concert_consumption.pdf'
 paperurl: 'https://yijinfengren-create.github.io/files/zhengda_cup_2025_concert_consumption.pdf'
-citation: '中国商业统计学会2026年度论文征集三等奖；正大杯第十六届全国大学生市场调查与分析大赛福建省一等奖'
+citation: ''
 ---
 
 ## 摘要
@@ -21,3 +21,5 @@ citation: '中国商业统计学会2026年度论文征集三等奖；正大杯�
 据此建议构建透明票务治理体系，优化观演全流程体验管理，强化现场应急沟通机制，并实施差异化粉丝运营。未来研究可拓展多平台数据来源，追踪消费者跨期行为变化，并考察演出类型与城市等级等情境因素的调节作用。
 
 **关键词**：Z世代；演唱会消费；LDA 文本挖掘；SOR 模型；结构方程模型
+
+**成果荣誉**：中国商业统计学会2026年度论文征集三等奖；正大杯第十六届全国大学生市场调查与分析大赛福建省一等奖
