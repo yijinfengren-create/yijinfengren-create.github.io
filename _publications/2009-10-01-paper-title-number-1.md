@@ -11,4 +11,13 @@ paperurl: 'https://yijinfengren-create.github.io/files/zhengda_cup_2025_concert_
 citation: '中国商业统计学会2026年度论文征集三等奖；正大杯第十六届全国大学生市场调查与分析大赛福建省一等奖'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+##摘要
+
+本研究综合运用文本挖掘、问卷调查与结构方程模型，系统识别 Z 世代线下演唱会消费体验的关键痛点及其行为影响机制。首先基于小红书平台收集大量“避雷帖”文本，通过 LDA 主题模型提取出六大负面体验维度，包括票务市场失信与不公、购票流程复杂与信息不透明、后勤与服务流程问题、场馆硬件质量缺陷、演出核心内容不足以及社群观演氛围问题。在此基础上以 SOR 理论为框架构建观演体验机制模型，将六类痛点作为外部刺激变量，体验失望感与感知风险作为机体反应变量，流失意愿与负面口碑传播作为行为反应变量，并引入粉丝依恋
+度作为调节变量，使用 612 份问卷数据与结构方程模型进行实证检验。
+
+本研究的创新点在于将网络舆情文本挖掘与结构方程模型相结合，从多维痛点视角揭示了不同痛点类型对消费者心理反应的差异化作用路径。主要结论显示，后勤与服务流程问题、场馆硬件缺陷及社群氛围问题更易引发即时体验失望，而票务失信、购票流程不透明及演出内容缺陷则更易导致感知风险。两类心理反应均显著提升流失意愿与负面口碑传播，其中感知风险的影响更强。粉丝依恋度表现出调节效应，高依恋粉丝对情绪性失望有一定容忍度，但一旦形成信任破裂，其流失与负面传播行为反而更强烈。研究还发现，Z 世代演唱会满意度主要源于艺人吸引力与演出内容质量，而不满集中于票务公平性与现场服务等运营环节，呈现“内容驱动满意、服务触发不满”的结构特征。
+
+据此建议构建透明票务治理体系，优化观演全流程体验管理，强化现场应急沟通机制，并实施差异化粉丝运营。未来研究可拓展多平台数据来源，追踪消费者跨期行为变化，并考察演出类型与城市等级等情境因素的调节作用。
+
+**关键词**：Z世代；演唱会消费；LDA 文本挖掘；SOR 模型；结构方程模型
