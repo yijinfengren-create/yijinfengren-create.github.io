@@ -1,14 +1,23 @@
 ---
 title: "公共数据开放与企业诉求的因果效应及传导机制研究——基于政府留言板的 LLM 识别与双重机器学习分析"
 collection: publications
-category: competition  #模板为manuscripts
+category: working  #模板为manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '结合大语言模型非结构化文本识别与双重机器学习因果识别框架，基于城市面板数据评估公共数据开放对企业诉求表达的净效应，揭示营商环境的中介路径与地区异质性特征。'
 date: 2026-03-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/working_paper_open_data_empirical.pdf'
-paperurl: 'https://academicpages.github.io/files/working_paper_open_data_empirical.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: ''
+slidesurl: 'https://yijinfengren-create.github.io/files/working_paper_open_data_empirical.pdf'
+paperurl: 'https://yijinfengren-create.github.io/files/working_paper_open_data_empirical.pdf'
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## 摘要
+公共数据开放是数字政府建设和数据要素市场化配置的重要内容，也是提升政府治理透明度、优化营商环境和畅通政企沟通渠道的重要抓手。企业诉求表达作为市场主体参与公共治理、反馈经营困难和获取政策支持的重要方式，能够反映地区制度环境与政企互动水平。
+
+本文基于 2011—2023 年中国城市层面面板数据和人民网“地方领导留言板”文本数据展开研究。首先，利用爬虫技术获取超过 300 万条留言文本，并结合关键词粗筛与大语言模型精筛，构建“两阶段语义识别框架”，从中识别出 5.77万条民营企业诉求文本，进一步汇总形成城市—年份层面的企业诉求指标。其次，将公共数据开放平台上线视为准自然实验，采用双重机器学习方法识别其平均处理效应，并通过平行趋势检验、安慰剂检验等多种稳健性检验证明因果识别的可靠性。最后，构建营商环境指标，检验其中介传导机制。
+
+研究结果表明：第一，公共数据开放显著提升企业诉求表达活跃度，说明数据开放能够降低政企信息不对称，增强企业对正式沟通渠道的使用意愿。第二，事件研究法和平行趋势检验支持准自然实验设定，安慰剂检验表明基准结果并非由随机政策时点驱动；在调整样本、剔除异常值、更换机器学习模型、改变交叉折数和替换被解释变量后，结论依然稳健。第三，公共数据开放的作用存在区域异质性，在东北和中部地区效应更强，西部地区次之，东部地区边际效应相对较弱。机制分析进一步表明，公共数据开放能够通过优化地区营商环境，增强企业政策获取能力和政企互动意愿，进而促进企业诉求表达。
+
+本文的边际贡献在于：一是基于大规模政府留言板文本和大语言模型识别企业诉求，拓展了企业诉求测度方法；二是采用双重机器学习、事件研究法和安慰剂检验相结合的识别策略，提高了因果推断的稳健性；三是从营商环境视角揭示公共数据开放影响企业诉求表达的传导机制。研究结论为推进公共数据高质量开放、完善企业诉求回应机制和优化地区营商环境提供了经验证据与政策启示。
+
+## 关键词 ## 公共数据开放；企业诉求；大语言模型；双重机器学习；营商环境
